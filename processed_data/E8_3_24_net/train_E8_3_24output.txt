@@ -1,0 +1,40 @@
+Finished epoch 0, latest loss 0.004064488606840196
+Finished epoch 1, latest loss 0.0025833329956706443
+Finished epoch 2, latest loss 0.0022016655393081105
+Finished epoch 3, latest loss 0.002018884722661849
+Finished epoch 4, latest loss 0.0019175758285136318
+Finished epoch 5, latest loss 0.0018488879039254293
+Finished epoch 6, latest loss 0.0017986250780891435
+Finished epoch 7, latest loss 0.0017607165299868385
+Finished epoch 8, latest loss 0.001730720945687034
+Finished epoch 9, latest loss 0.0017095951831103016
+Finished epoch 10, latest loss 0.0016910737281898612
+Finished epoch 11, latest loss 0.0016719578051585223
+Finished epoch 12, latest loss 0.0016505160383983512
+Finished epoch 13, latest loss 0.0016324326172103398
+Finished epoch 14, latest loss 0.0016188708119634545
+Finished epoch 15, latest loss 0.0016046246210952631
+Finished epoch 16, latest loss 0.0015949039120557128
+Finished epoch 17, latest loss 0.0015847894787464727
+Finished epoch 18, latest loss 0.0015765531196832376
+Finished epoch 19, latest loss 0.0015710106973223202
+------TRAINING SET------
+Fx, Fy, Fz, theta, phi
+[0.03424298 0.03358442 0.04056144 0.0359823  0.04822794]
+Norm rmse of forces is  0.036129611116420685
+Norm rmse of angles is  0.04210511573552436
+Norm rmse of all outputs is  0.03851981296406216
+Fx, Fy, Fz, theta, phi
+[0.57528202 0.52727535 0.56786014 6.47681329 4.34051419]
+Actual rmse of forces is  0.5568058376202721 N
+Actual rmse of angles is  5.408663737688867 deg
+------TESTING SET------
+Fx, Fy, Fz, theta, phi
+[0.0339797  0.03358894 0.040529   0.03599116 0.04823625]
+Norm rmse of forces is  0.036032545586062135
+Norm rmse of angles is  0.04211370427368333
+Norm rmse of all outputs is  0.03846500906111061
+Fx, Fy, Fz, theta, phi
+[0.57085889 0.52734643 0.56740595 6.47840857 4.34126248]
+Actual rmse of forces is  0.555203756089837 N
+Actual rmse of angles is  5.409835528221329 deg
